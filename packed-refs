@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+4f2e2fc35b780fa401030e92de8698df41c71f13 refs/heads/dependabot/npm_and_yarn/browserslist-4.16.6
+2d4d6e269743f54bdf45b1d341df90c84e7b3d88 refs/heads/dependabot/npm_and_yarn/copy-props-2.0.5
+54f6602c6dd517e7610a6e14790184236bf9fa56 refs/heads/dependabot/npm_and_yarn/decode-uri-component-0.2.2
+647f5d56b9977e5a1f985841c5499930badbb3f1 refs/heads/dependabot/npm_and_yarn/engine.io-and-browser-sync-6.2.1
+9d359e004254566e66cc03cb92ba822addf7f98e refs/heads/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+8039ede19bfe203ba3f83622290e4e6722b0dd33 refs/heads/dependabot/npm_and_yarn/ini-1.3.7
+fe974d8b148d6607b05346e7773a4caae6049efe refs/heads/dependabot/npm_and_yarn/lodash-4.17.21
+d43fb8b6eb3c78562cbc9d0435dff3178c69c766 refs/heads/dependabot/npm_and_yarn/path-parse-1.0.7
+8e5c3f3a359755da0335ff864d59f19034cdc3dc refs/heads/dependabot/npm_and_yarn/postcss-7.0.36
+1475d15ab463b99943c836f3565ed6664e1d38c1 refs/heads/dependabot/npm_and_yarn/socket.io-parser-and-browser-sync-4.2.1
+1a48c50800f802d3ddea77870fb0b9bdd75c8612 refs/heads/dependabot/npm_and_yarn/y18n-3.2.2
+5ad6324a91c071e869eb3e1b74abaf1f6cf1b401 refs/heads/imgbot
+a38ff1c92f932798eadc9da7f5bdf1c33a9936a6 refs/heads/master
