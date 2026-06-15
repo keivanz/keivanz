@@ -1,17 +1,17 @@
 
 Being a people leader is a constant experience of learning and experimenting. Below is my collection of frameworks and resources I've used throughout my career to become a stronger people leader.
 
-# **Frameworks**
+# Frameworks
 
-## **Manager Mindsets**
+## Manager Mindsets
 
-### **The Three Roles of a Manager**
+### The Three Roles of a Manager
 
 1. **Momentum:** Keeping the team moving forward and removing roadblocks.
 2. **Vision & Transformation:** Painting a clear picture of the future aligned with strategy.
 3. **Growing People:** Fostering career growth and acting as an emotional buffer for the team.
 
-### **McKinsey Manager Archetypes**
+### McKinsey Manager Archetypes
 
 | Archetype | Description |
 | :---- | :---- |
@@ -21,7 +21,7 @@ Being a people leader is a constant experience of learning and experimenting. Be
 | Facilitator | Removes blockers and enables team self-organization. |
 | Coordinator | Manages complex dependencies across disparate units. |
 
-### **Mindset shifts from Individual Contributor to People Manager**
+### Mindset shifts from Individual Contributor to People Manager
 
 | I do (Individual Contributor) | We do (People Manager) |
 | :---- | :---- |
@@ -33,7 +33,7 @@ Being a people leader is a constant experience of learning and experimenting. Be
 | Taking bows for personal success. | Giving credit and shining the spotlight on the team. |
 | Winning a race. | Lifting and enabling the team. |
 
-### **From (IC) to People Manager matrix**
+### From (IC) to People Manager matrix
 
 | Capability | From (The Tactical Operator) | To (The Strategic Leader) |
 | :---- | :---- | :---- |
@@ -42,7 +42,7 @@ Being a people leader is a constant experience of learning and experimenting. Be
 | Getting Done Through Others | If something goes wrong, I feel I should have done it myself.  I worry that others won't do the work the way I would.  I prefer to remain in tight control of execution. | My role is to enable, trust, and guide without micromanaging.  I tolerate discomfort and constructive mistakes as learning opportunities.  I scale our impact by putting heads together across teams. |
 | Focusing on Outcomes | Output-oriented: I focus on tracking tasks completed, lines of code, or hours worked. | Outcome-oriented: I treat my team like a business, tracking metrics that prove real business value. |
 
-### **Polarity Management: From "Versus" to "And"**
+### Polarity Management: From "Versus" to "And"
 
 Leadership maturing involves managing complementary polarities rather than binary trade-offs:
 
@@ -50,9 +50,9 @@ Leadership maturing involves managing complementary polarities rather than binar
 * Prioritizing individual growth AND Driving team performance
 * Leading with deep empathy AND Maintaining rigorous objectivity
 
-## **Alignment & Communication**
+## Alignment & Communication
 
-### **The 5 C's Staircase (Building Shared Context)**
+### The 5 C's Staircase (Building Shared Context)
 
 Establish shared context when delegating by walking through:
 
@@ -62,7 +62,7 @@ Establish shared context when delegating by walking through:
 4. Cost: Be transparent about trade-offs and opportunity costs.
 5. Consequence: Outline the stakes and risk of doing nothing.
 
-### **S.W.I.M. Communications Framework**
+### S.W.I.M. Communications Framework
 
 Use Caryn Marooney’s S.W.I.M. Framework for high-impact communications:
 
@@ -71,14 +71,14 @@ Use Caryn Marooney’s S.W.I.M. Framework for high-impact communications:
 * Impact: Explain what is at stake and why it matters now.
 * Meaning: Define the long-term meaning for the company and individuals.
 
-### **Audit alignments of David Ulevitch’s Inner and Outer Loops**
+### Audit alignments of David Ulevitch’s Inner and Outer Loops
 
 * The Inner Loop (Weekly): Knowing what is important, why, and performance metrics.
 * The Outer Loop (Strategic): Ensuring you have the people, capital, and business relevance to win.
 
-## **Delegation, Execution & Feedback**
+## Delegation, Execution & Feedback
 
-### **Team Operational Maturity**
+### Team Operational Maturity
 
 * Level 1 — Chaotic: No metrics; reliance on individual heroes.
 * Level 2 — Managed: Defined roles and systematically tracked tasks.
@@ -86,7 +86,7 @@ Use Caryn Marooney’s S.W.I.M. Framework for high-impact communications:
 * Level 4 — Measured: Conformance and external feedback loops tracked.
 * Level 5 — Continuous Improvement: Procedures regularly reviewed and optimized.
 
-### **The OARB Feedback Framework**
+### The OARB Feedback Framework
 
 Deliver feedback that is objective and tied to self-interest:
 
@@ -97,9 +97,9 @@ Deliver feedback that is objective and tied to self-interest:
 
 Example: "When you agree in meetings but execute differently (Observation), it seems untrustworthy (Assertion), which leads to closer questioning and wastes your time (Repercussion). Try raising reservations in real-time to protect your autonomy (Benefit)."
 
-## **Strategy, Systems Thinking, and Decisions**
+## Strategy, Systems Thinking, and Decisions
 
-### **Roger Martin: 17 Principles on OKRs vs. Strategy**
+### Roger Martin: 17 Principles on OKRs vs. Strategy
 
 1. OKRs are not a substitute for a well-thought-out strategy.
 2. Focus on the desired results, not the actions you think will get you there.
@@ -119,24 +119,24 @@ Example: "When you agree in meetings but execute differently (Observation), it s
 16. If an OKR seems unachievable, revisit your strategy, not the OKR.
 17. Objectives are checkpoints in the journey of your broader strategy.
 
-### **Reversible vs. Irreversible Decisions by James Clear**
+### Reversible vs. Irreversible Decisions by James Clear
 
 * Hats: Easy to change, low consequence.
 * Haircuts: Significant but reversible with time.
 * Tattoos: Permanent or extremely hard to reverse.
 
-### **The Holy Trinity of Leadership by Dave Kline**
+### The Holy Trinity of Leadership by Dave Kline
 
 * Synthesis: Cutting through noise to spot what matters.
 * Selling: Inspiring others via compelling narrative.
 * Systems: Building structures so success endures without you.
 
-# **Unlock your potential through 1:1 coaching**
+# Unlock your potential through 1:1 coaching
 
 In world-class athletics, the necessity of a coach is unquestioned. The most gifted tennis players, gymnasts, and runners in the world do not hire coaches because they lack technical knowledge or skill. They hire coaches to obtain objective feedback, push past blind spots, build rigorous self-awareness, and strategically analyze their game.
 The same rule applies to organizational leadership. Operating at a high level is a grueling endurance test. To scale yourself and your team, relying on your own instincts is rarely enough.
 
-### **The Support Spectrum**
+### The Support Spectrum
 
 Understanding the difference between different professional advocates is crucial:
 
@@ -144,7 +144,7 @@ Understanding the difference between different professional advocates is crucial
 15. A Sponsor talks about you — advocating for your advancement behind closed doors.
 16. A Coach talks with you — asking powerful questions to unlock your own latent potential.
 
-### **Self-Coaching: Reflecting on Burnout & Boundaries**
+### Self-Coaching: Reflecting on Burnout & Boundaries
 
 A primary responsibility of leadership is maintaining a sustainable pace of work. Use these diagnostic questions to assess your energy exchange:
 
@@ -153,9 +153,9 @@ A primary responsibility of leadership is maintaining a sustainable pace of work
 19. Are you resting? Are you letting yourself rest without guilt for the remaining to-do list?
 20. Physical health (sleep, movement, recovery) is mental health. Are you protecting your sleep so you can process daily workplace stressors?
 
-# **Resources**
+# Resources
 
-## **Books**
+## Books
 
 * [The Making of a Manager by Julie Zhuo](https://www.amazon.com/gp/product/0735219567?tag=keivanz-20)
 * [Scaling People by Claire Hughes Johnson](https://www.amazon.com/gp/product/1953953212?tag=keivanz-20)
@@ -170,14 +170,14 @@ A primary responsibility of leadership is maintaining a sustainable pace of work
 * [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374275637?tag=keivanz-20)
 * [High Output Management by Andy Grove](https://www.amazon.com/gp/product/0679762884?tag=keivanz-20)
 
-## **Newsletters**
+## Newsletters
 
 * [HBR: Management Tip of the Day](https://hbr.org/email-newsletters)
 * [Lenny's Newsletter on Product, Growth, and Management](https://www.lennysnewsletter.com/)
 * [Wes Kao's Best Articles on Marketing & Leadership](https://www.weskao.com/best-articles)
 * [Level Up by Ethan Evans on Substack](https://levelupwithethanevans.substack.com/)
 
-## **Articles / Videos**
+## Articles / Videos
 
 * [Why You're So Angry at Work on Lenny's Newsletter](https://www.lennysnewsletter.com/p/why-youre-so-angry-at-work)
 * [Five Principles for Successfully Managing Managers on Lenny's Newsletter](https://www.lennysnewsletter.com/p/five-principles-for-successfully?triedRedirect=true)
